@@ -1,5 +1,5 @@
 body {
-  background-image: "my.Background.jpg";
+  background-image: url("my.Background.jpg");
 }
 
 
